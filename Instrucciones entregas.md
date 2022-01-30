@@ -2,15 +2,19 @@
 
 Para realizar una entrega de prácticas, por favor, sigue los siguientes pasos:
 
-## Carpeta por entrega
+## Entregas
 
 - Los ejercicios están estructurados según módulos y unidades (p. ej., "M1U1 - Introducción al big data y ML").
 - Cada unidad tiene una entrega de prácticas propia, que habitualmente incorpora varios ejercicios individuales.
 - Los ejercicios serán generalmente cuadernos de Jupyter, aunque también pueden estar en formato markdown u otros.
     - Para los cuadernos de Jupyter, debes seguir las instrucciones y completar las celdas indicadas de cada cuaderno, enviando el mismo archivo (.ipynb).
     - Para los archivos en otros formatos, se indicará claramente qué debes entregar y en qué formato.
-- Una vez completados todos los ejercicios de la práctica, crea y comprime una carpeta con dichos ejercicios en formato ZIP y envíala al profesor a través de la plataforma de entrega de prácticas.
-- Para dicha carpeta y ejercicios, por favor, sigue la siguiente nomenclatura.
+- Una vez completados todos los ejercicios de la práctica, envíalos de forma conjunta al profesor a través de la plataforma de entrega de prácticas.
+- Para dichos ejercicios, sigue siempre la siguiente nomenclatura.
+
+## Estilo de código
+- Por favor, en los ejercicios, intenta seguir el estilo canónico recomendado de Python: [PEP8](https://www.python.org/dev/peps/pep-0008/).
+- Como siempre, no se trata de seguir PEP8 al pie de la letra 
 
 ## Nomenclatura
 
@@ -21,13 +25,9 @@ Intenta seguir en todo momento la nomenclatura indicada para referirte a los eje
 - Dentro de cada ejercicio, cada sección viene indicada como título de 2º nivel.
 - Así mismo, en cada ejercicio, cada celda de código a completar tiene una primera línea de título con un comentario que comienza por "TODO:".
 
-Como indicábamos antes, para la entrega de prácticas asegúrate de que:
-- Entregas una carpeta comprimida con el mismo nombre de la subcarpeta de unidad.
-- Cada ejercicio tiene el mismo nombre que en el repositorio.
-
-Del mismo modo, para referirte en un mensaje de pregunta al profesor a un ejercicio, sección o celda, por favor:
-- Refiérete al ejercicio por su nombre completo o al menos módulo, unidad y nº de ejercicio. P. ej., M1U2-1.
-- Refiérete a la sección por su título completo, mejor que por su número. P. ej., "Creación de un dataset sintético".
+Del mismo modo, para referirte en un mensaje al profesor a un ejercicio, sección o celda, por favor:
+- Refiérete al ejercicio por su nombre completo, o al menos nº de módulo, unidad y ejercicio. P. ej., M1U2-1.
+- Refiérete a la sección del ejercicio por su título completo mejor que por su número. P. ej., "Creación de un dataset sintético".
 - Refiérete a la/s celda/s por su/s título/s. P. ej., "TODO: Genera un dataset sintético manualmente, con término de bias y término de error inicializado a 0".
 - Si lo prefieres, siempre puedes incluir un enlace al ejercicio en el repositorio de GitHub.
 
