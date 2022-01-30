@@ -14,7 +14,8 @@ Para realizar una entrega de prácticas, por favor, sigue los siguientes pasos:
 
 ## Estilo de código
 - Por favor, en los ejercicios, intenta seguir el estilo canónico recomendado de Python: [PEP8](https://www.python.org/dev/peps/pep-0008/).
-- Como siempre, no se trata de seguir PEP8 al pie de la letra 
+- Como siempre, no se trata de seguir PEP8 por completo y al pie de la letra (tabs vs espacios, longitud máxima de línea, etc.), sino de conseguir un nivel mínimo de legibilidad de código.
+- Cuanto más fácil sea leer tu código, antes serán respondidas tus preguntas y corregidas tus prácticas.
 
 ## Nomenclatura
 
