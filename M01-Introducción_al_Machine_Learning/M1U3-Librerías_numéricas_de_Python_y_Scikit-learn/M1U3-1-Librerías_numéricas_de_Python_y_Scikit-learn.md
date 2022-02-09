@@ -55,4 +55,4 @@ Ahora debes preparar tu entorno de trabajo para descargar los ejercicios del rep
 
 ## Entregables
 
-Debes entregar el ejercicio del repositorio de GitHub [M1U3-2-Ejercicios_librerías.ipynb](XXX-TODO-XXX) y los 3 archivos que has descargado y modificado a partir de los tutoriales de las librerías numéricas.
+Debes entregar el ejercicio del repositorio de GitHub [M1U3-2-Ejercicios_librerías.ipynb](https://github.com/Tokio-School/Machine-Learning/blob/main/M01-Introducci%C3%B3n_al_Machine_Learning/M1U3-Librer%C3%ADas_num%C3%A9ricas_de_Python_y_Scikit-learn/M1U3-2-Ejercicios_librer%C3%ADas.ipynb) y los 3 archivos que has descargado y modificado a partir de los tutoriales de las librerías numéricas.
