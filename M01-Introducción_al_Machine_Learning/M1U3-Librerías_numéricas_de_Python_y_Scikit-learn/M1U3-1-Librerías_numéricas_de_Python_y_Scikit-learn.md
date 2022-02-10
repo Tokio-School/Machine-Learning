@@ -29,10 +29,10 @@ Por 2 razones principalmente:
 - Porque así descubres los tutoriales y documentación disponible de cada librería. Así, si durante el curso tienes algún problema, sabrás dónde encontrar la solución en la documentación, o contenido adicional.
 
 Tutoriales:
-1. Numpy:
-    1. [Quickstart](https://numpy.org/devdocs/user/quickstart.html) (para este ejemplo simplemente analízalo en la web)
-    1. [Lo básico para principiantes](https://numpy.org/devdocs/user/absolute_beginners.html) (crea un nuevo cuaderno o “notebook” de Jupyter en JupyterLab y copia cada celda de código junto a los capítulos)
-    1. [Fundamentos](https://numpy.org/devdocs/user/basics.html) (de nuevo, estos ejemplos simplemente analízalos en la web como referencia)
+1. Numpy (estos ejemplos simplemente analízalos en la web):
+    1. [Quickstart](https://numpy.org/devdocs/user/quickstart.html) 
+    1. [Lo básico para principiantes](https://numpy.org/devdocs/user/absolute_beginners.html)
+    1. [Fundamentos](https://numpy.org/devdocs/user/basics.html)
 1. Matplotlib:
     1. [Listado de tutoriales disponibles](https://matplotlib.org/stable/tutorials/index.html): introducción, intermedios, avanzados y más.
     1. Descarga y ejecuta al menos 2 y, como consejo, revisa al menos 6 para comprender bien cómo funciona Matplotlib, que puede ser un poco complejo a veces.
