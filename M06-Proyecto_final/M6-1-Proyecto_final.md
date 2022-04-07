@@ -13,7 +13,7 @@ Como proyecto final vamos a entrenar un modelo de machine learning que resuelva 
 1. Busca y escoge un datset para un caso de uso de tu interés en [OpenML](https://www.openml.org).
 1. Puedes resolver un dataset para aprendizaje supervisado, semi-supervisado o no supervisado, para regresión, clasificación, detección de anomalías, etc., escoge el que prefieras.
 1. Como durante todo el curso, utiliza el entorno de desarrollo que prefieras: local, WSL, VM, Google Colab, cloud, etc.
-1. Comienza creando un notebook de Jupyter que será parte de tus entregables finales.
+1. Comienza creando un notebook de Jupyter que será tu entregable final.
 1. Documenta todo el proceso en el notebook:
     1. Recuerda que el objetivo de un notebook no es mostrar el resultado final únicamente, sino que también puedes incluir celdas de cada prueba, iteración o hipótesis para documentar qué has probado y qué resultados ha dado
     1. Los nombres de variables para diferentes pruebas, como datasets preprocesados de forma diferente o diferentes modelos, pueden tener un nombre distinto para poder documentar tu trabajo y volver atrás para continuar refinando el modelo por otro camino 
