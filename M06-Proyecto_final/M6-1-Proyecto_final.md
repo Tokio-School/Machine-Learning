@@ -6,16 +6,6 @@ M06 - Ejercicio 1
 - Enviarlo para revisión y evaluación
 - Publicar el proyecto en nuestro perfil de Kaggle
 
-## TODO
-
-
-
-
-
-
-- Colgar en Kaggle
-
-
 ## Instrucciones generales
 Como proyecto final vamos a entrenar un modelo de machine learning que resuelva un problema y un dataset que nosotros mismos escogeremos.
 
