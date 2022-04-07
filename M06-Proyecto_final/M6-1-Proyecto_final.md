@@ -131,7 +131,9 @@ Presenta tu modelo final:
 - Justificación de su idoneidad y cumplimiento de los requisitos técnicos iniciales.
 
 ## Perfil en Kaggle
-¡Sube tu trabajo a tu perfil de Kaggle! sí puedes comenzar tu portafolio público.
+¡Sube tu trabajo a tu perfil de Kaggle! Así puedes comenzar tu portafolio público.
+
+Recuerda limpiar tu notebook antes de subirlo, eliminando también referencias al curso si fuera el caso.
 
 ## Presentación del proyecto
 Presenta tu proyecto para su evaluación.
@@ -144,3 +146,4 @@ Proceso:
 
 *ENTREGABLES:*
 1. Notebook como "M6-1-Proyecto_final-nombre_del_alumno.ipynb".
+1. Grabación de las respuestas a las 3 preguntas una vez formuladas.
