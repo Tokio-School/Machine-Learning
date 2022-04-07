@@ -141,7 +141,7 @@ Presenta tu modelo final:
 - Justificación de su idoneidad y cumplimiento de los requisitos técnicos iniciales.
 
 ## Perfil en Kaggle
-xxx
+¡Sube tu trabajo a tu perfil de Kaggle! sí puedes comenzar tu portafolio público.
 
 ## Presentación del proyecto
 Presenta tu proyecto para su evaluación.
