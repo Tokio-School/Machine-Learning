@@ -1,0 +1,1 @@
+Se recomienda utilizar una carpeta en el repositorio nueva para cada edición, para poder modificar las prácticas en gran medida sin afectar a los alumnos que ya están trabajando en ellas de ediciones anteriores.
